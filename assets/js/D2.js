@@ -8,7 +8,7 @@ let num2= 20;
 if (num1>num2) {
   document.getElementById('esercizio1').innerHTML= "num1 è maggiore di num2";
 } else if (num1===num2) {
-  document.getElementById('esercizio1').innerHTML= "num2 è maggiore di num1";
+  document.getElementById('esercizio1').innerHTML= "num2 è uguale a num1";
 }
 else{
  document.getElementById('esercizio1').innerHTML= "num2 è maggiore di num1";
